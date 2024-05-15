@@ -7,4 +7,4 @@ The following table summarizes the number of test cases for each test type.
 | Testing Type           | Number of Test Cases |
 | -------------          | :-------------:      |
 | **Smoke Testing**      | 4                    |
-| **Regression Testing** | 2                    |
+| **Functional Testing** | 2                    |
